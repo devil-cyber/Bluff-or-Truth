@@ -4,3 +4,4 @@ This is a demo project so we have kept our dataset small.
 So  there is no any need of spliting and labeling the data.
 All the program has been written in python on jyupyter notebook.
 There is a small comprision between Multiple linear regression and Polynomial Regresssion for this type of data
+You can vary the value of DEGREE For better Result
